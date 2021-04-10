@@ -1,4 +1,5 @@
 # Trickles-Kaggle
+> 필사적으로 필사
 
 trickle은 '천천히 흐르다/가다.'라는 뜻이 있다. 
 
